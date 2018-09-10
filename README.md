@@ -5,7 +5,9 @@
 ## On your terminal 
 
 git clone https://github.com/barakamatoke/InayaShop.git
+
 cd InayaShop
+
 bower install
 
 ## Start Polymer Server
