@@ -1,0 +1,30 @@
+[
+  {
+    "name":"PoolOver-Kijivu",
+    "title":"PoolOver Kijivu",
+    "category":"mens_outerwear",
+    "price":25000,
+    "description":"PoolOver Kijivu;",
+    "image":"data/images/10-15068B.jpg",
+    "largeImage":"data/images/10-15068A.jpg"
+  },
+  {
+    "name":"Sweta-Kijive",
+    "title":"Sweta Kijivu",
+    "category":"mens_outerwear",
+    "price":22000,
+    "description":"Sweta-KIjivu;",
+    "image":"data/images/10-14154B.jpg",
+    "largeImage":"data/images/10-14154A.jpg"
+  },
+  {
+    "name":"Kijan-PoolOver",
+    "title":"Kijani Kibichi PoolOver",
+    "category":"mens_outerwear",
+    "price":40000,
+    "description":"Kijan Kibichi PoolOver;",
+    "image":"data/images/10-14157B.jpg",
+    "largeImage":"data/images/10-14157A.jpg"
+  }
+  
+]
